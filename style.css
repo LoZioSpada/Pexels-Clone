@@ -1,0 +1,15 @@
+nav img{
+    height: 50px;
+}
+
+.jumbotron h1{
+    color: red;
+}
+
+.jumbotron p {
+    color: blue;
+}
+
+.card{
+    cursor: pointer;
+}
